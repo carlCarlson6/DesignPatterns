@@ -4,7 +4,7 @@
     {
         public override IButton CreateButton()
         {
-            throw new System.NotImplementedException();
+            return new WebButton();
         }
     }
 }

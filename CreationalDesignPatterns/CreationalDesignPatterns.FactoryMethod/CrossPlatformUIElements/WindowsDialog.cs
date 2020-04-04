@@ -8,7 +8,7 @@ namespace CreationalDesignPatterns.FactoryMethod.CrossPlatformUIElements
     {
         public override IButton CreateButton()
         {
-            throw new NotImplementedException();
+            return new WindowsButton();
         }
     }
 }
