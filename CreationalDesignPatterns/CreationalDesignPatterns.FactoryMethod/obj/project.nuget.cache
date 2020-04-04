@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RZAgCDzao4utb1ld8iIhssqri/M8X6C92g6fSOc8tVcpsvfBPzyEIUX59LxZNjjn5+Gjcsb5yDzmvA+tsCBOrA==",
+  "dgSpecHash": "5iAIYr0BR+qfaeQ/6pYgqKNREwqA5u4zD8cY1pcaIp7eMO+IjOrjp0CU0G4h/nk0C4zjLGIlcJSFk+48g5T9ow==",
   "success": true,
-  "projectFilePath": "C:\\dev\\DesignPatterns\\CreationalDesignPatterns\\CreationalDesignPatterns.FactoryMethod\\CreationalDesignPatterns.FactoryMethod.csproj",
+  "projectFilePath": "C:\\dev\\DesignPatterns\\CreationalDesignPatterns\\CreationalDesignPatterns.FactoryMethod\\CrossPlatformUIElements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

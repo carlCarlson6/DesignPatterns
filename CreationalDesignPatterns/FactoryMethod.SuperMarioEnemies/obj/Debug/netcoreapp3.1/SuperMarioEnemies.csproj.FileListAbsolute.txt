@@ -1,0 +1,12 @@
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\bin\Debug\netcoreapp3.1\SuperMarioEnemies.exe
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\bin\Debug\netcoreapp3.1\SuperMarioEnemies.deps.json
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\bin\Debug\netcoreapp3.1\SuperMarioEnemies.runtimeconfig.json
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\bin\Debug\netcoreapp3.1\SuperMarioEnemies.runtimeconfig.dev.json
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\bin\Debug\netcoreapp3.1\SuperMarioEnemies.dll
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\bin\Debug\netcoreapp3.1\SuperMarioEnemies.pdb
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\obj\Debug\netcoreapp3.1\SuperMarioEnemies.csproj.CoreCompileInputs.cache
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\obj\Debug\netcoreapp3.1\SuperMarioEnemies.AssemblyInfoInputs.cache
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\obj\Debug\netcoreapp3.1\SuperMarioEnemies.AssemblyInfo.cs
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\obj\Debug\netcoreapp3.1\SuperMarioEnemies.dll
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\obj\Debug\netcoreapp3.1\SuperMarioEnemies.pdb
+C:\dev\DesignPatterns\CreationalDesignPatterns\FactoryMethod.SuperMarioEnemies\obj\Debug\netcoreapp3.1\SuperMarioEnemies.genruntimeconfig.cache

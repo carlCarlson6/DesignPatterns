@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalDesignPatterns.FactoryMethod", "CreationalDesignPatterns.FactoryMethod\CreationalDesignPatterns.FactoryMethod.csproj", "{6E159874-BCCE-4971-BC27-63EFE8F4AE90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossPlatformUIElements", "CreationalDesignPatterns.FactoryMethod\CrossPlatformUIElements.csproj", "{6E159874-BCCE-4971-BC27-63EFE8F4AE90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FactoryMethod", "FactoryMethod", "{22D6A58A-6A99-4E87-8B7E-CB70085A02DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarioEnemies", "SuperMarioEnemies\SuperMarioEnemies.csproj", "{BAA83700-8E15-4F32-9755-5CA7D56D9851}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,17 @@ Global
 		{6E159874-BCCE-4971-BC27-63EFE8F4AE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E159874-BCCE-4971-BC27-63EFE8F4AE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E159874-BCCE-4971-BC27-63EFE8F4AE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA83700-8E15-4F32-9755-5CA7D56D9851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA83700-8E15-4F32-9755-5CA7D56D9851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA83700-8E15-4F32-9755-5CA7D56D9851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA83700-8E15-4F32-9755-5CA7D56D9851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E159874-BCCE-4971-BC27-63EFE8F4AE90} = {22D6A58A-6A99-4E87-8B7E-CB70085A02DD}
+		{BAA83700-8E15-4F32-9755-5CA7D56D9851} = {22D6A58A-6A99-4E87-8B7E-CB70085A02DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F5D46574-E31A-4B06-B89E-ABBC9A76BE1D}

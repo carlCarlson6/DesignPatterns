@@ -1,0 +1,13 @@
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.exe
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.deps.json
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.runtimeconfig.json
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.runtimeconfig.dev.json
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.dll
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.pdb
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.csprojAssemblyReference.cache
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.AssemblyInfoInputs.cache
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.AssemblyInfo.cs
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.dll
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.pdb
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CreationalDesignPatterns.FactoryMethod.genruntimeconfig.cache

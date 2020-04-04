@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\DesignPatterns\\CreationalDesignPatterns\\CreationalDesignPatterns.FactoryMethod\\CrossPlatformUIElements.csproj",
-      "projectName": "CrossPlatformUIElements",
-      "projectPath": "C:\\dev\\DesignPatterns\\CreationalDesignPatterns\\CreationalDesignPatterns.FactoryMethod\\CrossPlatformUIElements.csproj",
+      "projectUniqueName": "C:\\dev\\DesignPatterns\\CreationalDesignPatterns\\SuperMarioEnemies\\SuperMarioEnemies.csproj",
+      "projectName": "SuperMarioEnemies",
+      "projectPath": "C:\\dev\\DesignPatterns\\CreationalDesignPatterns\\SuperMarioEnemies\\SuperMarioEnemies.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\DesignPatterns\\CreationalDesignPatterns\\CreationalDesignPatterns.FactoryMethod\\obj\\",
+      "outputPath": "C:\\dev\\DesignPatterns\\CreationalDesignPatterns\\SuperMarioEnemies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

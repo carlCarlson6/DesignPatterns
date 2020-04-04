@@ -1,0 +1,12 @@
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CrossPlatformUIElements.exe
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CrossPlatformUIElements.deps.json
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CrossPlatformUIElements.runtimeconfig.json
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CrossPlatformUIElements.runtimeconfig.dev.json
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CrossPlatformUIElements.dll
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\bin\Debug\netcoreapp3.1\CrossPlatformUIElements.pdb
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CrossPlatformUIElements.csproj.CoreCompileInputs.cache
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CrossPlatformUIElements.AssemblyInfoInputs.cache
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CrossPlatformUIElements.AssemblyInfo.cs
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CrossPlatformUIElements.dll
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CrossPlatformUIElements.pdb
+C:\dev\DesignPatterns\CreationalDesignPatterns\CreationalDesignPatterns.FactoryMethod\obj\Debug\netcoreapp3.1\CrossPlatformUIElements.genruntimeconfig.cache
