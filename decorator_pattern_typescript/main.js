@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var BaseEnemy_1 = require("./BaseEnemy");
+var HelmetDecorator_1 = require("./HelmetDecorator");
+var ArmourDecorator_1 = require("./ArmourDecorator");
+var enemy = new BaseEnemy_1["default"]();
+var enemyWithHelmet = new HelmetDecorator_1["default"](enemy);
+var enemyWithHelmetAndArmour = new ArmourDecorator_1["default"](enemyWithHelmet);
+var computedDamaged = enemyWithHelmetAndArmour.TakeDamage();
+console.log(computedDamaged);
