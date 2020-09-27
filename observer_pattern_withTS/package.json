@@ -1,0 +1,18 @@
+{
+  "name": "observer_pattern_withTS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev-build": "tsc -w",
+    "dev-start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "typescript": "^4.0.3"
+  }
+}
